@@ -1,0 +1,26 @@
+By: Pedro Script
+
+Abra a Config.json
+
+Coloque seu token. (ensino a pegar token no video.)
+
+Coloque o chatid (Id do chat que o bot mande welcome)
+
+Coloque o botid ( ID do bot que da welcome)
+
+--------------------------------------------------------
+
+Vai estar por exemplo:
+
+chatid:"12345678890" // tdp
+botid: "12345678901" // tdp
+
+Exclua o // tdp ou // famosos
+
+Isso e uma configuração ja pronta para quem quiser!
+
+-------------------------------------------------------------
+
+Logo depois insira sua mensagem em (mensagem.txt)
+
+de start e pronto.
